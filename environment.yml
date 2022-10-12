@@ -1,0 +1,8 @@
+name: xpath-scraper
+channels:
+  - defaults
+dependencies:
+  - autopep8
+  - lxml
+  - requests
+prefix: /home/paulmilmor/anaconda3/envs/xpath-scraper
